@@ -1,4 +1,4 @@
-👋 Hi, I’m @Tyombo. I am a 'former' (not yet) Unity3D dev who fell in love with data and decided to become a Data Analyst.  
+👋 Hi, I’m @Tyombo. I am a 'former' (not yet) Unity3D developer who fell in love with data and decided to become a Data Analyst.  
 
 I have started my journey from September 2024, as a sign of the new academic year, to learn something new.  
 📫 The learning path:
